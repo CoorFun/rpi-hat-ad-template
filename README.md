@@ -1,6 +1,6 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/CoorFun/rpi-hat-ad-template/blob/master/LICENSE)
 
-# himalaya-customized-template
+# rpi-hat-ad-template
 
 Raspberry Pi extension hat pcb template for Altium Designer.
 
